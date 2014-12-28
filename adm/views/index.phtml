@@ -7,6 +7,7 @@
 <!------------------------------------------------------------ Toggle jQTE Button ------------------------------------------------------------>
 
 <form method="POST" id="page_editor">
+<label for="page">Select page</label>
 <div class="navigation">
     <select id ="page_selector" name="id_page">
     <option value="0"><?php echo 'New page' ?></option>
@@ -16,14 +17,26 @@
     </select>
 </div>
 <!------------------------------------------------------------ jQUERY TEXT EDITOR ------------------------------------------------------------>
+<div class="input-set">
 <label for="page">Page link</label>
 <input type="text" name="page" id = "page" placeholder="Enter page link"/>
+<div/>
+<div class="input-set">
 <label for="keywords">Keywords</label>
 <input type="text" name="keywords" id = "keywords" placeholder="Enter keywords"/>
+<div/>
+<div class="input-set">
 <label for="title">Title</label>
 <input type="text" name="title" id = "title" placeholder="Enter title"/>
+<div/>
+<div class="input-set">
+<label for="description">Description page</label>
 <input type="text" name="description"  id = "description" placeholder="Enter description"/>
+<div/>
+<div class="input-set">
 <textarea name="content" id="dsc" class="jqte-test"></textarea>
+<div/>
+
 </form>
 <input type="hidden" name="id_page" value=""/>
 <button id="savePage" >Save</button>

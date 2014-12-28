@@ -92,3 +92,7 @@ button:active {
 	-webkit-box-shadow:0 0 3px #000, inset 0 -2px 2px #333;
 	-moz-box-shadow:0 0 3px #000, inset 0 -2px 2px #333;
 }
+
+.input-set {
+margin: 10px 0;
+}
