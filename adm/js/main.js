@@ -13,6 +13,7 @@ $(document).ready(function() {
     formData = jQuery.param(formData);
     console.log(formData);
       ajaxSend(formData,reloadPage);  
+      return false;
     });
 });
 

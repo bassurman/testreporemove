@@ -52,6 +52,7 @@ class ModelPages extends BaseCore
     
     public function save()
     {
+    
          if ((int)$this->_id) {
           return $this->toUpdate();
          } else {
@@ -77,9 +78,8 @@ class ModelPages extends BaseCore
             `title` = ?,
             `description` = ?,
             `content` = ? 
-        WHERE id = `' . $this->_id . '`') ;
-        $result->execute(array_values($this->_fields));
-       return true;
+        WHERE `id` = ' . $this->_id ) ;
+       return $result->execute(array_values($this->_fields));
     }
     
 }
