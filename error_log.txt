@@ -1,0 +1,790 @@
+[24-Feb-2014 13:58:57 UTC] PHP Fatal error:  Call to undefined function GetMenuItemsU() in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 13:59:27 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 13:59:27 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:00:30 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:00:30 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:00:31 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:00:31 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:15 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:15 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:55 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:55 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:55 UTC] PHP Notice:  Undefined variable: get_menu_items_u in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:01:55 UTC] PHP Fatal error:  Function name must be a string in X:\home\ass.by\www\template\blocks.inc.php on line 39
+[24-Feb-2014 14:02:11 UTC] PHP Warning:  include_once(X:\home\ass.by\www/template/blocks.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\index.php on line 38
+[24-Feb-2014 14:02:11 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ass.by\www/template/blocks.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ass.by\www\index.php on line 38
+[24-Feb-2014 14:09:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in X:\home\ass.by\www\index.php on line 41
+[24-Feb-2014 14:16:19 UTC] PHP Notice:  Undefined index: description in X:\home\ass.by\www\index.php on line 44
+[24-Feb-2014 14:16:19 UTC] PHP Notice:  Undefined index: vipart in X:\home\ass.by\www\index.php on line 45
+[24-Feb-2014 14:18:27 UTC] PHP Notice:  Undefined index: description in X:\home\ass.by\www\index.php on line 44
+[24-Feb-2014 14:18:27 UTC] PHP Notice:  Undefined index: vipart in X:\home\ass.by\www\index.php on line 45
+[24-Feb-2014 14:18:41 UTC] PHP Notice:  Undefined index: description in X:\home\ass.by\www\index.php on line 44
+[24-Feb-2014 15:00:05 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:00:36 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:00:38 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:00:39 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:02:34 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:03:02 UTC] PHP Notice:  Use of undefined constant leight - assumed 'leight' in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:19:12 UTC] PHP Notice:  Undefined offset: 4 in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:02 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:02 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:02 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:02 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:02 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:20:56 UTC] PHP Notice:  Undefined variable: config in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 24
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 25
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 24
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 25
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 22
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 23
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 24
+[24-Feb-2014 15:26:41 UTC] PHP Notice:  Undefined variable: array in X:\home\ass.by\www\func.inc.php on line 25
+[24-Feb-2014 15:26:41 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in X:\home\ass.by\www\func.inc.php on line 19
+[24-Feb-2014 15:28:55 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in X:\home\ass.by\www\func.inc.php on line 19
+[24-Feb-2014 15:29:07 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in X:\home\ass.by\www\func.inc.php on line 19
+[24-Feb-2014 15:29:22 UTC] PHP Notice:  Undefined offset: 3 in X:\home\ass.by\www\func.inc.php on line 20
+[24-Feb-2014 15:29:32 UTC] PHP Notice:  Undefined offset: 1 in X:\home\ass.by\www\func.inc.php on line 20
+[24-Feb-2014 15:30:07 UTC] PHP Fatal error:  Cannot use [] for reading in X:\home\ass.by\www\func.inc.php on line 20
+[24-Feb-2014 15:30:42 UTC] PHP Fatal error:  Cannot use [] for reading in X:\home\ass.by\www\func.inc.php on line 20
+[24-Feb-2014 15:31:02 UTC] PHP Fatal error:  Cannot use [] for reading in X:\home\ass.by\www\func.inc.php on line 20
+[24-Feb-2014 15:31:13 UTC] PHP Fatal error:  Cannot use [] for reading in X:\home\ass.by\www\func.inc.php on line 20
+[27-Feb-2014 11:05:14 UTC] PHP Warning:  include_once(X:\home\ass.by\www/modules/.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\template\vipart.inc.php on line 85
+[27-Feb-2014 11:05:14 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ass.by\www/modules/.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ass.by\www\template\vipart.inc.php on line 85
+[28-Feb-2014 10:40:03 UTC] PHP Warning:  include_once(X:\home\ass.by\www/template/db.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\index.php on line 37
+[28-Feb-2014 10:40:03 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ass.by\www/template/db.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ass.by\www\index.php on line 37
+[28-Feb-2014 10:40:03 UTC] PHP Notice:  Undefined variable: db in X:\home\ass.by\www\index.php on line 38
+[28-Feb-2014 10:40:03 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in X:\home\ass.by\www\index.php on line 38
+[28-Feb-2014 10:40:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in X:\home\ass.by\www\index.php on line 39
+[28-Feb-2014 10:40:06 UTC] PHP Warning:  include_once(X:\home\ass.by\www/template/db.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\index.php on line 37
+[28-Feb-2014 10:40:06 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ass.by\www/template/db.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ass.by\www\index.php on line 37
+[28-Feb-2014 10:40:06 UTC] PHP Notice:  Undefined variable: db in X:\home\ass.by\www\index.php on line 38
+[28-Feb-2014 10:40:06 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in X:\home\ass.by\www\index.php on line 38
+[28-Feb-2014 10:40:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in X:\home\ass.by\www\index.php on line 39
+[28-Feb-2014 11:30:06 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:11 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:11 UTC] PHP Notice:  Undefined variable: reviews in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:24 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:24 UTC] PHP Notice:  Undefined variable: reviews in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:25 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:25 UTC] PHP Notice:  Undefined variable: reviews in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:43 UTC] PHP Parse error:  syntax error, unexpected '=' in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:56 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:31:56 UTC] PHP Notice:  Undefined variable: reviews in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:35:14 UTC] PHP Warning:  include_once(X:\home\ass.by\www/template/blocks.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\index.php on line 25
+[28-Feb-2014 11:35:14 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ass.by\www/template/blocks.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ass.by\www\index.php on line 25
+[28-Feb-2014 11:35:14 UTC] PHP Notice:  Undefined variable: page_blocks in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:35:14 UTC] PHP Notice:  Undefined variable: reviews in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 11:35:39 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_END_HEREDOC or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in X:\home\ass.by\www\modules\zakaz.inc.php on line 66
+[28-Feb-2014 11:37:20 UTC] PHP Fatal error:  Call to undefined function GetBlock() in X:\home\ass.by\www\template\vipart.inc.php on line 86
+[28-Feb-2014 12:39:05 UTC] PHP Notice:  Undefined index: category in X:\home\ass.by\www\index.php on line 45
+[28-Feb-2014 12:39:33 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\vipart.inc.php on line 31
+[28-Feb-2014 12:39:33 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\vipart.inc.php on line 50
+[28-Feb-2014 12:39:33 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\vipart.inc.php on line 95
+[28-Feb-2014 12:39:59 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\vipart.inc.php on line 50
+[28-Feb-2014 12:39:59 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\vipart.inc.php on line 95
+[28-Feb-2014 12:40:19 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\redactor.inc.php on line 31
+[28-Feb-2014 12:40:19 UTC] PHP Notice:  Undefined variable: category in X:\home\ass.by\www\template\redactor.inc.php on line 48
+[04-Mar-2014 14:27:00 UTC] PHP Warning:  readfile(404.html) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in X:\home\ass.by\www\func.inc.php on line 12
+[20-Mar-2014 11:33:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in X:\home\ecmonstroy.by\www\index.php on line 41
+[20-Mar-2014 11:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at X:\home\ecmonstroy.by\www\index.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 8
+[20-Mar-2014 11:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at X:\home\ecmonstroy.by\www\index.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 9
+[20-Mar-2014 11:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at X:\home\ecmonstroy.by\www\index.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 10
+[20-Mar-2014 11:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at X:\home\ecmonstroy.by\www\index.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 12
+[20-Mar-2014 11:35:24 UTC] PHP Notice:  Undefined index: descriptions in X:\home\ecmonstroy.by\www\index.php on line 49
+[20-Mar-2014 11:49:16 UTC] PHP Notice:  Undefined variable: descriptions in X:\home\ecmonstroy.by\www\template\vipart.inc.php on line 7
+[31-Mar-2014 08:02:08 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 30
+[31-Mar-2014 08:44:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 43
+[31-Mar-2014 08:45:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 43
+[31-Mar-2014 09:47:12 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 57
+[31-Mar-2014 09:47:17 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 57
+[31-Mar-2014 09:47:48 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\index.php on line 58
+[31-Mar-2014 10:38:24 UTC] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 40
+[31-Mar-2014 10:38:43 UTC] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 39
+[31-Mar-2014 10:52:24 UTC] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in X:\home\ecmonstroy.by\www\template\menu.inc.php on line 52
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 81
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 81
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[31-Mar-2014 14:23:23 UTC] PHP Notice:  Undefined variable: submenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[01-Apr-2014 12:42:20 UTC] PHP Notice:  Undefined offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 111
+[01-Apr-2014 12:42:21 UTC] PHP Notice:  Undefined offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 111
+[01-Apr-2014 12:42:24 UTC] PHP Notice:  Undefined offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 111
+[10-Apr-2014 13:17:06 UTC] PHP Warning:  Missing argument 3 for GetMenuItemsU(), called in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 48 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 33
+[10-Apr-2014 13:17:06 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\func.inc.php on line 36
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:56:15 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 13:58:54 UTC] PHP Notice:  Undefined variable: subsubmenu_item in X:\home\ecmonstroy.by\www\func.inc.php on line 63
+[10-Apr-2014 14:15:53 UTC] PHP Notice:  Undefined variable: parent in X:\home\ecmonstroy.by\www\func.inc.php on line 47
+[10-Apr-2014 14:15:53 UTC] PHP Notice:  Undefined variable: parent in X:\home\ecmonstroy.by\www\func.inc.php on line 47
+[10-Apr-2014 14:15:53 UTC] PHP Notice:  Undefined variable: parent in X:\home\ecmonstroy.by\www\func.inc.php on line 47
+[10-Apr-2014 14:15:53 UTC] PHP Notice:  Undefined variable: parent in X:\home\ecmonstroy.by\www\func.inc.php on line 47
+[10-Apr-2014 14:16:13 UTC] PHP Notice:  Undefined variable: parent in X:\home\ecmonstroy.by\www\func.inc.php on line 45
+[10-Apr-2014 14:32:19 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[10-Apr-2014 14:37:23 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[18-Apr-2014 11:43:26 UTC] PHP Parse error:  syntax error, unexpected '<' in X:\home\ecmonstroy.by\www\func.inc.php on line 99
+[18-Apr-2014 11:44:14 UTC] PHP Warning:  Missing argument 1 for navigation(), called in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 126 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 92
+[18-Apr-2014 11:44:14 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 94
+[18-Apr-2014 11:44:20 UTC] PHP Notice:  Undefined variable: nav in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 126
+[18-Apr-2014 11:44:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 94
+[18-Apr-2014 11:44:57 UTC] PHP Notice:  Undefined variable: nav in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 126
+[18-Apr-2014 11:44:57 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 94
+[18-Apr-2014 11:45:05 UTC] PHP Warning:  Missing argument 1 for navigation(), called in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 126 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 92
+[18-Apr-2014 11:45:05 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 94
+[18-Apr-2014 11:45:16 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 94
+[18-Apr-2014 11:45:59 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 95
+[18-Apr-2014 11:46:03 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 95
+[18-Apr-2014 11:46:38 UTC] PHP Warning:  Missing argument 1 for navigation(), called in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 126 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 92
+[18-Apr-2014 11:46:38 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 95
+[18-Apr-2014 11:52:05 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\func.inc.php on line 100
+[18-Apr-2014 11:52:26 UTC] PHP Notice:  Undefined variable: category in X:\home\ecmonstroy.by\www\func.inc.php on line 100
+[18-Apr-2014 11:56:30 UTC] PHP Notice:  Undefined variable: menu_items in X:\home\ecmonstroy.by\www\func.inc.php on line 101
+[18-Apr-2014 11:56:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 101
+[23-Apr-2014 07:25:15 UTC] PHP Notice:  Undefined variable: sidemenu in X:\home\ecmonstroy.by\www\func.inc.php on line 100
+[23-Apr-2014 07:59:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in X:\home\ecmonstroy.by\www\func.inc.php on line 83
+[23-Apr-2014 07:59:43 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[23-Apr-2014 07:59:56 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in X:\home\ecmonstroy.by\www\func.inc.php on line 84
+[23-Apr-2014 08:00:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in X:\home\ecmonstroy.by\www\func.inc.php on line 83
+[23-Apr-2014 08:00:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in X:\home\ecmonstroy.by\www\func.inc.php on line 83
+[23-Apr-2014 08:00:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in X:\home\ecmonstroy.by\www\func.inc.php on line 83
+[23-Apr-2014 08:01:09 UTC] PHP Notice:  Undefined variable: sPage in X:\home\ecmonstroy.by\www\func.inc.php on line 111
+[23-Apr-2014 08:02:06 UTC] PHP Notice:  Undefined variable: sPage in X:\home\ecmonstroy.by\www\func.inc.php on line 110
+[23-Apr-2014 08:02:09 UTC] PHP Notice:  Undefined variable: sPage in X:\home\ecmonstroy.by\www\func.inc.php on line 110
+[23-Apr-2014 08:19:26 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:20:19 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:24:35 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:24:35 UTC] PHP Notice:  Uninitialized string offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 104
+[23-Apr-2014 08:25:03 UTC] PHP Notice:  Uninitialized string offset: 1 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:25:26 UTC] PHP Notice:  Uninitialized string offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:26:02 UTC] PHP Notice:  Uninitialized string offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:26:06 UTC] PHP Notice:  Uninitialized string offset: 0 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:27:35 UTC] PHP Notice:  Uninitialized string offset: 1 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:27:48 UTC] PHP Notice:  Uninitialized string offset: 1 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:28:15 UTC] PHP Notice:  Uninitialized string offset: 1 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:29:52 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:30:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:35:53 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:37:28 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:38:17 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:39:06 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in X:\home\ecmonstroy.by\www\func.inc.php on line 108
+[23-Apr-2014 08:39:16 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:39:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, string given in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:40:54 UTC] PHP Parse error:  syntax error, unexpected T_IF in X:\home\ecmonstroy.by\www\func.inc.php on line 104
+[23-Apr-2014 08:41:10 UTC] PHP Notice:  Undefined index: obshhestroitelnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:41:41 UTC] PHP Notice:  Undefined index: $page in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 08:46:29 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 106
+[23-Apr-2014 08:46:29 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 107
+[23-Apr-2014 08:48:11 UTC] PHP Notice:  Undefined variable: sCategory in X:\home\ecmonstroy.by\www\func.inc.php on line 106
+[23-Apr-2014 08:48:11 UTC] PHP Notice:  Undefined variable: sParent in X:\home\ecmonstroy.by\www\func.inc.php on line 107
+[23-Apr-2014 08:49:05 UTC] PHP Notice:  Undefined variable: sCategory in X:\home\ecmonstroy.by\www\func.inc.php on line 106
+[23-Apr-2014 08:49:05 UTC] PHP Notice:  Undefined variable: sParent in X:\home\ecmonstroy.by\www\func.inc.php on line 107
+[23-Apr-2014 08:51:57 UTC] PHP Notice:  Undefined index: monolitnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 09:17:06 UTC] PHP Notice:  Undefined variable: sParent in X:\home\ecmonstroy.by\www\func.inc.php on line 115
+[23-Apr-2014 09:23:52 UTC] PHP Notice:  Undefined index: 404 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 09:24:09 UTC] PHP Notice:  Undefined index: 404 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 09:24:13 UTC] PHP Notice:  Undefined index: 404 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 10:45:08 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 10:45:16 UTC] PHP Notice:  Undefined index: 404 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 10:45:21 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 12:56:54 UTC] PHP Notice:  Undefined index: 404 in X:\home\ecmonstroy.by\www\func.inc.php on line 103
+[23-Apr-2014 13:08:56 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in X:\home\ecmonstroy.by\www\func.inc.php on line 125
+[05-May-2014 10:36:19 UTC] PHP Notice:  Undefined variable: connect in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:36:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:36:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 123
+[05-May-2014 10:36:19 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 145
+[05-May-2014 10:36:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 131
+[05-May-2014 10:38:03 UTC] PHP Notice:  Undefined variable: connect in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:38:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:38:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 123
+[05-May-2014 10:38:03 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 145
+[05-May-2014 10:38:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 131
+[05-May-2014 10:38:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:38:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 123
+[05-May-2014 10:38:36 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 145
+[05-May-2014 10:38:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 131
+[05-May-2014 10:39:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 123
+[05-May-2014 10:39:05 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 145
+[05-May-2014 10:39:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 131
+[05-May-2014 10:39:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 120
+[05-May-2014 10:39:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 123
+[05-May-2014 10:39:14 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 145
+[05-May-2014 10:39:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 131
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 125
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:39:34 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 151
+[05-May-2014 10:40:41 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:01 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 10:41:08 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 153
+[05-May-2014 11:04:42 UTC] PHP Fatal error:  Using $this when not in object context in X:\home\ecmonstroy.by\www\func.inc.php on line 35
+[05-May-2014 11:06:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:06:50 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in X:\home\ecmonstroy.by\www\func.inc.php on line 36
+[05-May-2014 11:07:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:07:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:11:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in X:\home\ecmonstroy.by\www\func.inc.php on line 35
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:12:42 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:13:01 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:14:03 UTC] PHP Notice:  Undefined variable: path in X:\home\ecmonstroy.by\www\func.inc.php on line 34
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:03 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 38
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:14:48 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined variable: id in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:01 UTC] PHP Notice:  Undefined index:  in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:15:48 UTC] PHP Fatal error:  Cannot redeclare view_cat() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:33) in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:16:58 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 68
+[05-May-2014 11:19:52 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:19:52 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:19:52 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:19:52 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:19:52 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:10 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:53 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:20:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 80 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:22:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:20 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 80 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:24:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:20 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:20 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:24:21 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Warning:  Missing argument 2 for view_c(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:25:19 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 66
+[05-May-2014 11:38:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:41:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, resource given in X:\home\ecmonstroy.by\www\func.inc.php on line 37
+[05-May-2014 11:41:19 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:41:30 UTC] PHP Notice:  Use of undefined constant id - assumed 'id' in X:\home\ecmonstroy.by\www\func.inc.php on line 39
+[05-May-2014 11:50:17 UTC] PHP Notice:  Undefined variable: dataset in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:50:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 62
+[05-May-2014 11:50:37 UTC] PHP Notice:  Undefined index: title in X:\home\ecmonstroy.by\www\func.inc.php on line 64
+[05-May-2014 11:50:37 UTC] PHP Fatal error:  Cannot redeclare mapTree() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 11:51:05 UTC] PHP Fatal error:  Cannot redeclare mapTree() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 11:51:24 UTC] PHP Fatal error:  Cannot redeclare mapTree() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 11:51:40 UTC] PHP Fatal error:  Cannot redeclare mapTree() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 11:53:40 UTC] PHP Fatal error:  Cannot redeclare mapTree() (previously declared in X:\home\ecmonstroy.by\www\func.inc.php:41) in X:\home\ecmonstroy.by\www\func.inc.php on line 41
+[05-May-2014 12:16:12 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 147
+[05-May-2014 12:25:27 UTC] PHP Notice:  Use of undefined constant db - assumed 'db' in X:\home\ecmonstroy.by\www\index.php on line 41
+[05-May-2014 12:25:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in X:\home\ecmonstroy.by\www\index.php on line 41
+[05-May-2014 12:25:27 UTC] PHP Warning:  Missing argument 2 for view_cat(), called in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 119 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 33
+[05-May-2014 12:25:27 UTC] PHP Notice:  Undefined variable: sidemenu in X:\home\ecmonstroy.by\www\func.inc.php on line 34
+[05-May-2014 12:25:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in X:\home\ecmonstroy.by\www\func.inc.php on line 34
+[05-May-2014 12:25:27 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:25:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 42
+[05-May-2014 12:25:49 UTC] PHP Notice:  Use of undefined constant db - assumed 'db' in X:\home\ecmonstroy.by\www\index.php on line 41
+[05-May-2014 12:25:49 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in X:\home\ecmonstroy.by\www\index.php on line 41
+[05-May-2014 12:25:49 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in X:\home\ecmonstroy.by\www\func.inc.php on line 34
+[05-May-2014 12:25:49 UTC] PHP Notice:  Undefined variable: data in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 42
+[05-May-2014 12:29:10 UTC] PHP Parse error:  syntax error, unexpected '}' in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:37:15 UTC] PHP Notice:  Undefined index: childs in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: menu in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:26 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: menu in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:42:55 UTC] PHP Notice:  Undefined variable: config in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:42:55 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:42:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 71 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: menu in X:\home\ecmonstroy.by\www\func.inc.php on line 60
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:43:39 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:43:39 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:14 UTC] PHP Notice:  Undefined variable: menu in X:\home\ecmonstroy.by\www\func.inc.php on line 58
+[05-May-2014 12:44:14 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:14 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:14 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:14 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:14 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:52 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 54
+[05-May-2014 12:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:52 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 54
+[05-May-2014 12:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:52 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 54
+[05-May-2014 12:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:52 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 54
+[05-May-2014 12:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:44:52 UTC] PHP Warning:  Missing argument 2 for view(), called in X:\home\ecmonstroy.by\www\func.inc.php on line 64 and defined in X:\home\ecmonstroy.by\www\func.inc.php on line 54
+[05-May-2014 12:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:45:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:53:23 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:53:23 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:53:23 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 55
+[05-May-2014 12:54:37 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:54:37 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:54:37 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:54:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:54:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:54:40 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 56
+[05-May-2014 12:56:57 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:56:57 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 12:56:57 UTC] PHP Notice:  Undefined variable: page in X:\home\ecmonstroy.by\www\func.inc.php on line 57
+[05-May-2014 13:11:05 UTC] PHP Notice:  Undefined index: / in X:\home\ecmonstroy.by\www\func.inc.php on line 156
+[05-May-2014 13:12:22 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 151
+[06-May-2014 09:05:51 UTC] PHP Warning:  include_once(X:\home\ecmonstroy.by\www/slideshow.inc.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 49
+[06-May-2014 09:05:51 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'X:\home\ecmonstroy.by\www/slideshow.inc.php' for inclusion (include_path='.;C:\php\pear') in X:\home\ecmonstroy.by\www\template\ems.inc.php on line 49
+[04-Jun-2014 10:43:41 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 102
+[18-Jun-2014 14:03:52 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 102
+[18-Jun-2014 14:03:58 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 102
+[18-Jun-2014 14:12:10 UTC] PHP Notice:  Undefined index: otdelochnye_raboty in X:\home\ecmonstroy.by\www\func.inc.php on line 102
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecmonstr/public_html/modules/db.inc.php on line 2
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/modules/db.inc.php on line 3
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 40
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 41
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ecmonstr/public_html/index.php on line 44
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 6
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 7
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 8
+[19-Jun-2014 13:46:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 10
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecmonstr/public_html/modules/db.inc.php on line 2
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/modules/db.inc.php on line 3
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 40
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 41
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ecmonstr/public_html/index.php on line 44
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 6
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 7
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 8
+[19-Jun-2014 14:12:55 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 10
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ecmonstr/public_html/modules/db.inc.php on line 2
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/modules/db.inc.php on line 3
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 40
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/ecmonstr/public_html/index.php on line 41
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/ecmonstr/public_html/index.php on line 44
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 6
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 7
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 8
+[19-Jun-2014 14:12:58 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/modules/db.inc.php:2) in /home/ecmonstr/public_html/func.inc.php on line 10
+[19-Jun-2014 14:20:09 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[26-Jun-2014 23:52:00 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[08-Jul-2014 01:24:41 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[08-Jul-2014 14:19:18 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[21-Jul-2014 21:07:51 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[28-Aug-2014 10:25:45 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[28-Aug-2014 19:39:23 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[02-Sep-2014 01:42:13 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[06-Oct-2014 19:11:26 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[11-Oct-2014 13:37:31 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[14-Oct-2014 11:00:27 Europe/Minsk] PHP Notice:  Undefined index: otdelochnye_raboty in /home/ecmonstr/public_html/func.inc.php on line 102
+[21-Oct-2014 11:21:02 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:21:02 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:21:43 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:21:43 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:22:09 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:22:09 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:22:27 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[21-Oct-2014 11:22:27 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/ecmonstr/public_html/func.inc.php on line 21
+[02-Nov-2014 23:06:34 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/index.php:28) in /home/ecmonstr/public_html/func.inc.php on line 6
+[02-Nov-2014 23:06:34 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/index.php:28) in /home/ecmonstr/public_html/func.inc.php on line 7
+[02-Nov-2014 23:06:34 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/index.php:28) in /home/ecmonstr/public_html/func.inc.php on line 8
+[02-Nov-2014 23:06:34 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ecmonstr/public_html/index.php:28) in /home/ecmonstr/public_html/func.inc.php on line 10

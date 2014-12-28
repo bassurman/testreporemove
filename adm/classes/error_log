@@ -1,0 +1,7 @@
+[17-Dec-2014 01:20:24 Europe/Minsk] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ecmonstr/public_html/adm/classes/AjaxController.php on line 10
+[17-Dec-2014 01:21:13 Europe/Minsk] PHP Parse error:  syntax error, unexpected '$controller' (T_VARIABLE) in /home/ecmonstr/public_html/adm/classes/AjaxController.php on line 11
+[17-Dec-2014 18:04:28 Europe/Minsk] PHP Fatal error:  Class 'BaseCore' not found in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 3
+[17-Dec-2014 18:04:37 Europe/Minsk] PHP Fatal error:  Class 'BaseCore' not found in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 3
+[17-Dec-2014 18:05:17 Europe/Minsk] PHP Fatal error:  Call to undefined method PDOStatement::fetchRow() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 23
+[17-Dec-2014 18:06:14 Europe/Minsk] PHP Fatal error:  Call to undefined function json_enconde() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 32
+[23-Dec-2014 14:38:13 Europe/Minsk] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 68

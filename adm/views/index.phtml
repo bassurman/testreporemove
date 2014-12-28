@@ -1,0 +1,35 @@
+<form>
+   <h1>Admin editor</h1>
+
+<h2>Page editor</h2>
+<!--script src="/adm/js/tinymce/tinymce.min.js"></script>
+<script>tinymce.init({selector:'textarea'});</script-->
+<!------------------------------------------------------------ Toggle jQTE Button ------------------------------------------------------------>
+
+<form method="POST" id="page_editor">
+<div class="navigation">
+    <select id ="page_selector" name="id_page">
+    <option value="0"><?php echo 'New page' ?></option>
+    <?php foreach ($this->_pageVars['listPages'] as $key => $pageInfo) : ?>
+        <option value="<?php echo $pageInfo['id'] ?>"><?php echo $pageInfo['title'] ?></option>
+    <?php endforeach; ?>
+    </select>
+</div>
+<!------------------------------------------------------------ jQUERY TEXT EDITOR ------------------------------------------------------------>
+<input type="text" name="page" id = "page" placeholder="Enter page link"/>
+<input type="text" name="keywords" id = "keywords" placeholder="Enter keywords"/>
+<input type="text" name="title" id = "title" placeholder="Enter title"/>
+<input type="text" name="description"  id = "description" placeholder="Enter description"/>
+<textarea name="content" id="dsc" class="jqte-test"></textarea>
+</form>
+<input type="hidden" name="id_page" value=""/>
+<button id="savePage" >Save</button>
+<script>
+	$('.jqte-test').jqte();
+</script>
+
+<!------------------------------------------------------------ jQUERY TEXT EDITOR ------------------------------------------------------------>
+
+
+<hr>
+</form>

@@ -1,0 +1,141 @@
+[27-Nov-2014 00:08:12 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}' in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 8
+[27-Nov-2014 00:52:02 Europe/Minsk] PHP Fatal error:  Using $this when not in object context in /home/ecmonstr/public_html/adm/views/index.phtml on line 22
+[27-Nov-2014 00:53:13 Europe/Minsk] PHP Fatal error:  Using $this when not in object context in /home/ecmonstr/public_html/adm/views/index.phtml on line 22
+[27-Nov-2014 01:09:17 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 3
+[27-Nov-2014 01:09:31 Europe/Minsk] PHP Warning:  require_once(./models/ModelPages.php): failed to open stream: No such file or directory in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 2
+[27-Nov-2014 01:09:31 Europe/Minsk] PHP Fatal error:  require_once(): Failed opening required './models/ModelPages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 2
+[27-Nov-2014 01:11:50 Europe/Minsk] PHP Warning:  require_once(./models/ModelPages.php): failed to open stream: No such file or directory in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 2
+[27-Nov-2014 01:11:50 Europe/Minsk] PHP Fatal error:  require_once(): Failed opening required './models/ModelPages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ecmonstr/public_html/adm/classes/Navigation.php on line 2
+[15-Dec-2014 23:02:59 Europe/Minsk] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 14
+[15-Dec-2014 23:03:34 Europe/Minsk] PHP Fatal error:  Using $this when not in object context in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 14
+[15-Dec-2014 23:06:59 Europe/Minsk] PHP Fatal error:  Call to undefined function BaseCore() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 6
+[15-Dec-2014 23:17:45 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')' in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 11
+[15-Dec-2014 23:23:24 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ecmonstr/public_html/adm/views/index.phtml on line 8
+[15-Dec-2014 23:24:28 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ecmonstr/public_html/adm/views/index.phtml on line 8
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:25:09 Europe/Minsk] PHP Warning:  Illegal string offset 'title' in /home/ecmonstr/public_html/adm/views/index.phtml on line 7
+[15-Dec-2014 23:41:06 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 12
+[15-Dec-2014 23:47:45 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:47:45 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:26 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:26 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:26 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:26 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:30 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:50:30 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:29 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:29 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:30 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:31 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:54:31 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[15-Dec-2014 23:57:55 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_result::fetchAll() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 13
+[16-Dec-2014 00:01:13 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[16-Dec-2014 00:01:13 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[16-Dec-2014 00:14:09 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_result::fetchAll() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 13
+[16-Dec-2014 00:18:18 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_stmt::fetchAll() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 13
+[16-Dec-2014 00:18:55 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 14
+[16-Dec-2014 09:59:57 Europe/Minsk] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 14
+[16-Dec-2014 10:04:23 Europe/Minsk] PHP Warning:  PDO::__construct(): The server requested authentication method unknown to the client [mysql_old_password] in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[16-Dec-2014 10:04:23 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client' in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php:15
+Stack trace:
+#0 /home/ecmonstr/public_html/adm/classes/base/BaseCore.php(15): PDO->__construct('mysql:dbname=ec...', 'ecmonstr_user', '100990ass')
+#1 /home/ecmonstr/public_html/adm/classes/models/ModelPages.php(10): BaseCore->getConnect()
+#2 /home/ecmonstr/public_html/adm/classes/Navigation.php(11): ModelPages->getCollection()
+#3 /home/ecmonstr/public_html/adm/index.php(4): Navigation->initContent()
+#4 {main}
+  thrown in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 15
+[16-Dec-2014 10:09:19 Europe/Minsk] PHP Fatal error:  Call to undefined method BaseCore::_mysqlConnect() in /home/ecmonstr/public_html/adm/classes/base/BaseCore.php on line 16
+[17-Dec-2014 18:09:49 Europe/Minsk] PHP Fatal error:  Class 'BaseCore' not found in /home/ecmonstr/public_html/adm/classes/models/ModelPages.php on line 3
